@@ -2,7 +2,7 @@
 
 ---
 
-## Machine learning
+## Exploratory data analysis
 
 ### Spark Fund Investment Analysis
 
