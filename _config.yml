@@ -1,7 +1,7 @@
 title: <p align="center"> Ritesh Dubey </p>
 logo: /assets/img/logo.png
 
-Description:
+description:
   <p align="center">
   <a href="pdf/resume.pdf">Resume</a> |
   <a href="www.linkedin.com/in/ritesh-dubey">LinkedIn</a> |
@@ -12,6 +12,12 @@ Description:
   Also working as Senior Software Engineer at Hypersonix.ai.
   <br>
   </p>
+  <h3 align="left">Skills:</h3>
+  <p>Python, SQL, Unix Command and Shell Scripting, selenium
+  web driver, Django framework, JavaScript, Node.js, Docker,
+  sentry, Redis
+  </p>
+
 
 
 theme: jekyll-theme-minimal
