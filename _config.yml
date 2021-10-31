@@ -1,7 +1,7 @@
 title: <p align="center"> Ritesh Dubey </p>
 logo: /assets/img/logo.png
 
-description:
+Description:
   <p align="center">
   <a href="pdf/resume.pdf">Resume</a> |
   <a href="www.linkedin.com/in/ritesh-dubey">LinkedIn</a> |
@@ -9,10 +9,13 @@ description:
   
   <br>
   I am persuning Master in Machine Learning & AI from LJMU and Executive PG programme in ML & AI from IIIT Bangalore.
-  Also working as Senior Software Engineer at Hypersonix.ai
-  I have 5+ years of experience on python as backend engineer.
+  Also working as Senior Software Engineer at Hypersonix.ai.
   <br>
   </p>
+  <h3 align="left">Skills:</h3>
+  <p>Python, SQL, Unix Command and Shell Scripting, selenium
+web driver, Django framework, JavaScript, Node.js, Docker,
+sentry, Redis</p>
 
 
 
