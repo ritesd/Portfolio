@@ -1,6 +1,19 @@
-title: Minimal theme
+title: <p align="center"> Ritesh Dubey </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="www.linkedin.com/in/ritesh-dubey">LinkedIn</a> |
+  <a href="https://github.com/ritesd">GitHub</a>
+  
+  <br>
+  I am persuning Master in Machine Learning & AI from LJMU and Executive PG programme in ML & AI from IIIT Bangalore.
+  Also working as Senior Software Engineer at Hypersonix.ai
+  I have 5+ years of experience on python as backend engineer.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
