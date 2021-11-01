@@ -6,20 +6,19 @@ description:
   <a href="pdf/resume.pdf">Resume</a> |
   <a href="www.linkedin.com/in/ritesh-dubey">LinkedIn</a> |
   <a href="https://github.com/ritesd">GitHub</a>
-  
+  </p>
   <br>
+  <p align="left">
   I am persuning Master in Machine Learning & AI from LJMU and Executive PG programme in ML & AI from IIIT Bangalore.
   Also working as Senior Software Engineer at Hypersonix.ai.
-  <br>
+  </p>
+  <p>
   <h3 align="left">Skills:</h3>
   python, SQL, Unix Command and Shell Scripting, selenium
   web driver, Django framework, JavaScript, Node.js, Docker,
   sentry, Redis
   </p>
-  <br>
-  <br>
 
 
 
 theme: jekyll-theme-minimal
-remote_theme: pages-themes/minimal@v0.2.0
